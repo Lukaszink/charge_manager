@@ -1,0 +1,46 @@
+.Mp {
+  text-align: center;
+}
+#frame{
+  position: fixed;
+  width: 80%;
+  border: black solid;
+  border-radius: 1%;
+  margin-left: 10%;
+}
+.animation-settings{
+  position: fixed;
+  top:9%;
+  margin-top: 9.5%;
+  left: 10%;
+  margin-left: 20%;
+}
+
+.add-cars{
+  position: fixed;
+  top:9%;
+  margin-top: 9.5%;
+  left: 10%;
+  margin-left: 2%;
+}
+
+.custom-add{
+  position: fixed;
+  top:8%;
+  margin-top: 19%;
+  left: 10%;
+  margin-left: 2%;
+}
+
+.inputfield{
+  margin-bottom: 3px;
+}
+
+.infld{
+  margin-bottom: 1px;
+
+}
+
+.inheader{
+  margin-bottom: 5px;
+}
